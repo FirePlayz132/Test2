@@ -200,12 +200,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BOYFRIENDG",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf",
+	"healthicon": "bfG",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,
