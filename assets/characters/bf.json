@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "gf_idle_not_hypno_2s instance 1",
+			"name": "gf_idle_not_hypno_2s",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "idle-alt",
 			"fps": 24,
-			"name": "gf_idle_ok_maybe_shes_hypno_2s instance 1",
+			"name": "gf_idle_ok_maybe_shes_hypno_2s",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "idle-alt2",
 			"fps": 24,
-			"name": "gf_idle_ok_shes_hypno_2s instance 1",
+			"name": "gf_idle_ok_shes_hypno_2s",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "gf_left_alt instance 1",
+			"name": "gf_left_alt",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "gf_down instance 1",
+			"name": "gf_down",
 			"indices": []
 		},
 		{
@@ -63,7 +63,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "gf_up instance 1",
+			"name": "gf_up",
 			"indices": []
 		},
 		{
@@ -74,7 +74,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "gf_right_better instance 1",
+			"name": "gf_right_better",
 			"indices": []
 		},
 		{
@@ -85,7 +85,7 @@
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
-			"name": "gf_left_alt_MISS instance 1",
+			"name": "gf_left_alt_MISS",
 			"indices": []
 		},
 		{
@@ -96,7 +96,7 @@
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
-			"name": "gf_down_MISS instance 1",
+			"name": "gf_down_MISS",
 			"indices": []
 		},
 		{
@@ -107,7 +107,7 @@
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
-			"name": "gf_up_MISS instance 1",
+			"name": "gf_up_MISS",
 			"indices": []
 		},
 		{
@@ -118,12 +118,12 @@
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
-			"name": "gf_right_better_miss instance 1",
+			"name": "gf_right_better_miss",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Hypno Girlfriend",
+	"image": "characters/HypnoGirlfriend",
 	"position": [
 		520,
 		-20
